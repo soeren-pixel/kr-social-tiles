@@ -1,0 +1,35 @@
+{
+  "headline": "Das ist für viele Nicht-Depressive undenkbar",
+  "author_name": "Martin Gommel",
+  "author_title": "Gesundheitsreporter",
+  "color_scheme": "lila+lavendel",
+  "vertical": "weird",
+  "cover_mode": "inset",
+  "cta_mode": "phone",
+  "article_url": "https://krautreporter.de/5319-das-ist-fuer-viele-nicht-depressive-undenkbar",
+  "quotes": [
+    "Meine Freundin sagte „Tschüss\" und ich brach zusammen. **Satte zwei Stunden weinte ich, kaum zu beruhigen, die Beine in Embryostellung auf dem Bett.** Sie konnte das nicht nachvollziehen. Wie auch?",
+    "Martin Gommel hat auf Twitter gefragt, was für Depressive völlig normal, aber für Nichtbetroffene kaum denkbar ist. Über 500 Antworten. Über 700 Umfrage-Teilnehmende. Das Gefühl war bei allen gleich: **Sie sehnen sich danach, in ihrer Erkrankung gesehen und verstanden zu werden.**",
+    "„Man liegt stundenlang durstig im Bett, weil man keine drei Schritte laufen kann, um die Wasserflasche zu holen.\" Psychotherapeutin Glaßmeyer sagt: **Bei Menschen mit Depressionen ist Antriebslosigkeit kein gefühltes, sondern auch ein körperliches Symptom** – nicht zu vergleichen mit dem Mittagstief einer gesunden Person.",
+    "„Absolute Leere. Dieses Gefühl des Nichts-Fühlens, als ob nichts Sinn hat und alles bedeutungslos ist.\" Manche Patient:innen sagen Glaßmeyer, **sie würden mal gerne wieder weinen.** Diese Gleichgültigkeit, das Monotone – das belastet viele.",
+    "Wenn du jemanden kennst, der sich seit Monaten nicht meldet: **„Melde dich, wenn du mich brauchst\" ist kein guter Rat.** Das wird nicht passieren. Lies den ganzen Artikel – er erklärt, was wirklich hilft."
+  ],
+  "caption": "🫂 Martin Gommel hat über 1.200 Menschen gefragt, was in einer Depression normal ist – aber für alle anderen kaum vorstellbar. Die Antworten haben eines gemeinsam: das Gefühl, unsichtbar zu sein.\n💬 Die vier Momente im Artikel sind eine Brücke – zwischen Betroffenen und ihrem Umfeld.\n\n„Das ist für viele Nicht-Depressive undenkbar“. Link in Bio",
+  "background_images": {
+    "2": {
+      "file": "assets/unsplash/LaMnXPLz7qc.jpg",
+      "credit": "Callum Skelton, Unsplash",
+      "mode": "inset"
+    },
+    "3": {
+      "file": "assets/unsplash/pyNaDWUFN9A.jpg",
+      "credit": "Nathan Dumlao, Unsplash",
+      "mode": "full"
+    },
+    "4": {
+      "file": "assets/unsplash/TYV09Jyc0l0.jpg",
+      "credit": "Roma Kaiuk, Unsplash",
+      "mode": "behind"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "headline": "Das solltest du wissen, wenn du ChatGPT wie einen Arzt benutzt",
+  "quotes": [
+    "2023 bestand ChatGPT ein medizinisches Staatsexamen. Heute zeigt eine Studie: **Jede zweite Chatbot-Antwort auf Gesundheitsfragen ist problematisch.**",
+    "Die schwedische Medizinerin Almira Osmanovic Thunström erfand 2024 die Krankheit Bixonimania, baute zwei Fake-Studien und lud sie auf einen Preprint-Server. Sie schrieb sogar wörtlich in die Arbeit, dass alles erfunden sei. Wenige Wochen später behaupteten Chatbots, **eine von 90.000 Personen sei von Bixonimania betroffen.**",
+    "Chatbots arbeiten nach Durchschnittswerten: Häufiges ist häufig, Seltenes selten. Aber Symptome lassen sich ohne Kontext nicht deuten — die Maschine kennt deine Vorerkrankungen, dein Alter oder deine Lebensumstände nicht. **Stechen in der Brust kann bei einer Sportlerin Sodbrennen sein** — bei einer älteren Person aber auf einen Herzinfarkt hinweisen.",
+    "Eine Krebspatientin wollte ihre Medikamente wegen belastender Nebenwirkungen absetzen. Der Chatbot ist so programmiert, dass wir uns wohlfühlen — also gab er ihr recht, signalisierte Verständnis und bestärkte sie. Verschwiegen hat er dabei, **dass ein Therapieabbruch lebensbedrohlich sein kann.**",
+    "Du kannst dem Chatbot enge Leitplanken setzen. Sätze wie „Antworte sachlich und nicht freundlich\" oder „Stelle die Nutzen-Risiko-Abwägung realistisch dar — nutze keine Hoffnungs-Rhetorik\" helfen, aus dem Schleimer-Modus auszubrechen. **Stelle Gegenfragen und vergleiche immer mit einem zweiten Tool.**",
+    "Eine Studie zeigt sogar: Bei Gesundheitsfragen schlagen Suchmaschinen oft die Chatbots. Wir müssen mit der KI erst noch lernen umzugehen. **Warum Künstliche Intelligenz weniger intelligent ist, als wir glauben** — und wie ein Masterprompt sie zum sachlichen Sparringspartner macht, liest du im Artikel."
+  ],
+  "author_name": "Silke Jäger",
+  "author_title": "Gesundheitsreporterin",
+  "category": "Artikel",
+  "color_scheme": "navy+lavendel",
+  "vertical": "kr",
+  "cover_image": "https://krautreporter.gumlet.io/system/article/teaser_image/6376/260513_KI_Gesundheit(2).jpg?h=630&mode=crop&w=1200",
+  "photo_credit": "Kari Shea/Etactics Inc/Joachim Schnürle/Kayla Maurais/Kaylee Garrett/Unsplash",
+  "num_slides": 7,
+  "created": "20260518_142100",
+  "cta_mode": "phone",
+  "caption": "💊 Eine Krebspatientin wollte ihre Medikamente absetzen — und der Chatbot bestärkte sie darin, ohne auf die Lebensgefahr hinzuweisen. KI ist freundlich programmiert, nicht kritisch.\n\n🔍 Im Artikel: die Sätze, die ChatGPT in den Sachlich-Modus zwingen — und die Studie, die Suchmaschinen bei Gesundheitsfragen vorn sieht.\n\n„Das solltest du wissen, wenn du ChatGPT wie einen Arzt benutzt\". Link in Bio",
+  "article_url": "https://krautreporter.de/psyche-und-gesundheit/6376-das-solltest-du-wissen-wenn-du-chatgpt-wie-einen-arzt-benutzt"
+}

@@ -1,0 +1,22 @@
+{
+  "headline": "Palantir ist gefürchtet – aber nicht mal besser als die Konkurrenz",
+  "quotes": [
+    "**Alle reden über Palantir.** Aber nur wenige wissen, was die Firma eigentlich macht.",
+    "Drei Bundesländer setzen Palantir-Software schon ein: Hessen, Bayern und Nordrhein-Westfalen. **Bald könnten auch Bundespolizei und BKA dazukommen** — Innenminister Dobrindt hat dafür gerade Gesetzentwürfe vorgelegt.",
+    "Constanze Kurz vom Chaos Computer Club ordnet die Software ein: **„Aus rein informatischer Sicht ist die Software ein Witz.\"** Informationsaufbereitung und Mustererkennung seien keine Raketenwissenschaft. Im Kern ordnet Palantir Daten in Strukturen, die ähnlich funktionieren wie das semantische Web.",
+    "Die Software in Bayern arbeitet mit Daten von mindestens 38,7 Millionen Menschen in Deutschland. **60 Prozent davon sind Zeug:innen, Opfer oder Auskunftspersonen.** Expert:innen sprechen von „Dragnet Surveillance\", also Schleppnetzüberwachung.",
+    "Der Fünf-Jahres-Vertrag in Baden-Württemberg kostet 25 Millionen Euro, in Nordrhein-Westfalen haben sich die Anschaffungskosten fast verdreifacht. Hinzu kommt: **Palantir-Software ist proprietär.** Nur Palantir kann den Quellcode einsehen und weiterentwickeln.",
+    "Bei einem deutschen Konkurrenten heißt es: „Bei uns melden sich im Wochentakt Firmen, die sagen, wir können so etwas auch bauen.\" **Was wir mit unserer digitalen Souveränität riskieren** — und wie wir es besser machen könnten."
+  ],
+  "author_name": "Finn Gessert",
+  "author_title": "Reporter",
+  "category": "Artikel",
+  "color_scheme": "navy+creme",
+  "vertical": "kr",
+  "cover_image": "https://krautreporter.gumlet.io/system/article/teaser_image/6029/palantir.jpg?h=630&mode=crop&w=1200",
+  "photo_credit": "Krautreporter",
+  "num_slides": 7,
+  "created": "20260511_123307",
+  "caption": "🔍 Kaum eine Software steht so im Verdacht wie Palantir: Daten von Millionen Menschen, US-Konzern, Verbindung zu Peter Thiel. Innenminister Dobrindt will sie jetzt bundesweit für BKA und Bundespolizei einsetzen.\n💡 Dabei ist gar nicht klar, ob Palantir wirklich mehr kann als die europäische Konkurrenz — aus rein informatischer Sicht sei die Software „ein Witz\", sagt der Chaos Computer Club.\n\n„Palantir ist gefürchtet — aber nicht mal besser als die Konkurrenz\". Link in Bio",
+  "cta_mode": "phone"
+}
