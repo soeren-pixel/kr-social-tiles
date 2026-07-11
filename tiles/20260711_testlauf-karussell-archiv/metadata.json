@@ -1,0 +1,18 @@
+{
+  "headline": "Testlauf: Karussell-Archiv",
+  "quotes": [
+    "Testlauf für das neue dauerhafte Karussell-Archiv. **Dieser Ordner wird gleich wieder gelöscht.** Er dient nur der Verifikation des Upload-Flows.",
+    "Zweite Kachel mit etwas mehr Text, damit der Renderer und die QA-Prüfung einen realistischen Fall bekommen. **Alles nur Testdaten,** kein echter Artikel."
+  ],
+  "author_name": "Bent Freiwald",
+  "author_title": "Reporter für Bildung",
+  "category": "Artikel",
+  "color_scheme": "navy+blau",
+  "vertical": "kr",
+  "cover_image": "assets/authors/bent_freiwald.png",
+  "photo_credit": "Test",
+  "cover_mode": "default",
+  "cta_mode": "author",
+  "num_slides": 3,
+  "created": "20260711_230712"
+}
