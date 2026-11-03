@@ -1,0 +1,31 @@
+{
+  "headline": "Lügenpresse: So erkennst du Fake News",
+  "quotes": [
+    "Wenn ein Bericht erzählt, dass heute Morgen ein Alien-Raumschiff vor dem Brandenburger Tor gelandet ist und Elvis Presley diesem Raumgleiter entstieg, lese ich nicht weiter. Das ist augenscheinlich Quatsch. **Aber sehr viele Texte im Netz wirken plausibel.** Es könnte möglich sein.",
+    "Gerade das ist der Trick von Propaganda: Sie knüpft um einen kleinen wahren Kern ein ganzes **Geflecht aus Verdrehungen, Auslassungen und Verfälschungen.** Mit viel Zeit und Geduld kann sich jeder das Wissen erarbeiten, dieses Geflecht zu entwirren, aber das kann Jahre dauern. Deswegen stelle ich mir nach dem Lesen zunächst eine andere Frage: In welchem Umfeld erscheint der Artikel?",
+    "Wenn die anderen Artikel auf der Seite Themen behandeln, die völlig abwegig sind, solltest du auch dem ursprünglichen Artikel weniger trauen. Ein gutes Beispiel ist die Seite Global Research. Dort habe ich 2015 einen Artikel über die vermeintlichen Steuerschulden des deutschen Baukonzerns Hochtief in Griechenland gelesen. **Wenn der Artikel wahr wäre … wow! Wäre eine Sensation!**",
+    "Andere Beiträge auf der Seite handelten von Verschwörungs-Evergreens wie Chemtrails und ich wurde skeptisch. Wer behauptet, dass Kondensstreifen von Flugzeugen eine Chemikalie beinhalten, um uns zu manipulieren, der steigt mit hoher Wahrscheinlichkeit nicht hinab in den Dschungel des griechischen Steuerrechts. **Ich behielt Recht:** Meine Recherchen zeigten, dass die Meldung falsch war.",
+    "Mit KI lassen sich heute Fälschungen herstellen, die kaum noch von echten Aufnahmen zu unterscheiden sind. Eine Auswertung von 56 Studien zeigt: **Menschen erkennen solche Fälschungen nur in etwa 55 Prozent der Fälle.** Das ist kaum besser als zu raten. Seit August 2026 müssen Deepfakes in der EU zwar gekennzeichnet werden. Wer täuschen will, hält sich daran aber nicht.",
+    "Im Artikel findest du zehn Fragen, mit denen du jede Quelle prüfen kannst – als Schnellcheck, der leicht zur Routine werden kann. Außerdem erfährst du, **welchen Code fast nur Journalist:innen kennen,** obwohl er bei so gut wie jedem Beitrag deutlich sichtbar ist. Und was 425 fliegende Elefanten damit zu tun haben."
+  ],
+  "author_name": "Rico Grimm",
+  "author_title": "Politik- und Klimareporter",
+  "category": "Artikel",
+  "color_scheme": "navy+lavendel",
+  "vertical": "kr",
+  "cover_image": "fotos_1171/aufmacher.png",
+  "photo_credit": "paseven/quantic69/iStock",
+  "cover_mode": "inset",
+  "cta_mode": "author",
+  "num_slides": 8,
+  "created": "20261103_151355",
+  "grafik_slides": {
+    "7": "checkliste_10654.png"
+  },
+  "caption": "📰 Jede:r Fünfte glaubt, die Bevölkerung werde von den Medien systematisch belogen – zwei Jahre zuvor waren es noch 14 Prozent. Wem man noch glauben kann, fragen uns Leser:innen immer wieder.\n\n🔍 Dieser Text beantwortet die Frage: mit einem Schnellcheck für Menschen mit wenig Zeit, der leicht zur Routine werden kann.\n\n„Lügenpresse: So erkennst du Fake News“. Link in Bio",
+  "fb_caption": "🤖 Seit August müssen Deepfakes in der EU gekennzeichnet werden. Wer täuschen will, hält sich daran aber nicht. Und Menschen erkennen KI-Fälschungen ohnehin nur in etwa 55 Prozent der Fälle – kaum besser als zu raten.\n\n🔍 Zehn Fragen, mit denen du jede Quelle prüfst – und ein Code, den fast nur Journalist:innen kennen, obwohl er bei so gut wie jedem Beitrag sichtbar ist 👉 https://krautreporter.de/nachrichten-erklart/1171-lugenpresse-so-erkennst-du-fake-news?shared=d601a221-392e-4f2f-9666-4bf7bd02f630&utm_campaign=share-url&utm_medium=social-media&utm_source=facebook.com",
+  "article_id": 1171,
+  "thread_file": "threads/20261103_Lügenpresse So erkennst du Fake News.md",
+  "remote_path": "tiles/20261103_luegenpresse-so-erkennst-du-fake-news",
+  "remote_path_facebook": "tiles/20261103_luegenpresse-so-erkennst-du-fake-news-fb"
+}
