@@ -1,0 +1,37 @@
+# So reagierst du, wenn du beim Sex versehentlich eine Grenze überschritten hast
+
+**URL:** https://krautreporter.de/leben-und-lieben/6612-so-reagierst-du-wenn-du-beim-sex-versehentlich-eine-grenze-uberschritten-hast
+**Autor:** Lou Zucker, Journalistin und Sexualpädagogin
+**Datum:** 2026-11-12
+**Systematik:** Eine zentrale These
+**Article-ID:** 6612
+**Article-UUID:** 
+
+---
+
+Slide 1: Auch mir ist das schon passiert: eine sexuelle Grenze zu überschreiten, ohne böse Absicht, ohne mir in dem Moment bewusst zu sein, dass da eine Grenze war. **Ich spreche hier nicht als eine, die es besser kann,** sondern als eine, die selbst dazulernen möchte.
+Slide 2: Wir haben gelernt, dass Täter grundlegend böse Menschen sind. Der nette Nachbar hat schon mal der Oma im dritten Stock den Einkauf hochgetragen? So einer kann doch kein Täter sein … **Das alles ist Quatsch.** Genauso wie der bequeme Mythos, dass Täter immer die anderen sind, niemals wir selbst.
+Slide 3: Solche Mythen schützen uns vor der unangenehmen Wahrheit, dass auch wir selbst Grenzen überschreiten und anderen damit schaden können. **Wenn wir diese Wahrheit zulassen, ist schon viel gewonnen.** Anzuerkennen, dass wir alle in der Lage sind, die Grenzen anderer zu verletzen, ist die Basis für alles Weitere.
+Slide 4: Schuld und Scham können sich so schlimm anfühlen, dass wir meinen, wir müssten uns gegen jegliche Kritik verteidigen. Als ich einmal nach dem Sex auf eine Grenzüberschreitung angesprochen wurde, fühlte ich mich so schuldig, **dass ich förmlich emotional zusammenbrach,** anstatt für die andere Person da zu sein. Nichts von alldem nützt der betroffenen Person oder uns selbst.
+Slide 5: Ja, die Scham muss die Seite wechseln. Die Scham über sexualisierte Gewalttaten gehört den Täter:innen, nicht den Betroffenen. Doch Scham bringt selten Veränderung. Wenn wir über versehentliche Grenzverletzungen in der Grauzone sprechen, **plädiere ich für Verantwortung statt Scham.**
+Slide 6: Das sind erst zwei von sieben Schritten. Im Text geht es weiter mit empathischem Zuhören, einer Entschuldigung ohne Abers und der Frage, wie wir uns selbst vergeben können. Und mit dem Satz, den du besser nie sagst: **„Es tut mir leid, dass du dich so fühlst.“**
+
+---
+
+Caption:
+🤝 Niemand spricht gerne über Situationen, in denen man beim Sex eigentlich Nein sagen wollte. Und niemand steht gerne auf der anderen Seite dieser Erfahrung. Doch das Schweigen darüber bringt uns nicht weiter.
+
+💬 Die Journalistin und Sexualpädagogin Lou Zucker zeigt in ihrem Buch „Neinvernehmlich“, wie eine sexuelle Fehlerkultur aussehen kann: eine, in der es leichter fällt zu sagen „Es tut mir leid, dass ich dich verletzt habe“.
+
+„So reagierst du, wenn du beim Sex versehentlich eine Grenze überschritten hast“ – den ganzen Text findest du über den Link in unserer Bio
+
+---
+
+Caption (Facebook):
+🫣 Du hast beim Sex eine Grenze überschritten, ohne es zu merken? Dann bist du nicht automatisch ein Monster. Aber du trägst Verantwortung.
+
+💬 „Es tut mir leid, dass du dich so fühlst“ ist übrigens keine Entschuldigung. Was du stattdessen sagen und tun kannst, in sieben Schritten 👉 https://krautreporter.de/leben-und-lieben/6612-so-reagierst-du-wenn-du-beim-sex-versehentlich-eine-grenze-uberschritten-hast?shared=b366e85a-4e4d-4007-8827-12559fb0463d&utm_campaign=share-url&utm_medium=social-media&utm_source=facebook.com
+
+---
+
+Begründung: Der Buchauszug ist ein 7-Schritte-Listicle – deshalb nur Schritt 1 (Täter-Mythen) und 2 (Scham) auf den Slides, gebündelt unter der zentralen These „Verantwortung statt Scham“. Die persönlichen Ich-Passagen der Autorin (eigene Grenzüberschreitung, emotionaler Zusammenbruch) tragen den Tonfall; die übrigen fünf Schritte und das konkrete No-Go-Zitat bleiben als Curiosity Gap.
